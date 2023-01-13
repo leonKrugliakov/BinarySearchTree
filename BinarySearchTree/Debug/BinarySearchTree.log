@@ -1,0 +1,3 @@
+﻿  BinarySearchTree.cpp
+c:\users\leonc\google drive\college\senior year\fall semester\data structures ii\week 3\tree\binarysearchtree\binarysearchtree\binarysearchtree.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BinarySearchTree.vcxproj -> C:\Users\leonc\Google Drive\College\Senior Year\Fall Semester\Data Structures II\Week 3\Tree\BinarySearchTree\Debug\BinarySearchTree.exe
